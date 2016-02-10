@@ -1,8 +1,4 @@
-## Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/)
-
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png)
-
-This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+## Personal Site Theme
 
 ---
 
@@ -14,7 +10,6 @@ What has inside?
 - [SVG](https://www.w3.org/Graphics/SVG/)
 - [Travis](https://travis-ci.org/)
 - No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
 ## Setup
 
@@ -38,7 +33,6 @@ bio: 'A Man who travels the world eating noodles'
 picture: 'assets/images/profile.jpg'
 
 url: http://YOURUSER.github.io
-# like: http://sergiokopplin.github.io
 permalink: /:title/
 
 analytics: 'UA-MYANALYTICS'
@@ -66,14 +60,11 @@ projects: true
 
 ---
 
-## Contributions
+## Based On Themes & Contributions From
 
 - [siddhantjain](https://github.com/siddhantjain)
-
-## Problems?
-
-Tell me on github or open a issue [GitHub Issue](https://github.com/sergiokopplin/indigo/issues/new).
+- [sergiokopplin](https://github.com/sergiokopplin
 
 ## License
 
-[MIT](http://kopplin.mit-license.org/) Licença © Sérgio Kopplin
+[MIT](http://zzimbler.mit-license.org/) License © Zachary Zimbler
