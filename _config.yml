@@ -1,21 +1,16 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Zachary Zimbler
+bio: 'Developer, Adventurer, Music Lover'
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
-# your url: http://USERNAME.github.io
+#url: http://zzimbler.com
+url: 
 permalink: /:title/
 
-analytics: 'UA-MYANALYTICS'
-disqus: mydisqus
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+twitter: zzimbler
+instagram: zzimbler
+linkedin: zzimbler
+github: zzimbler
+email: zachzimbler@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
