@@ -31,6 +31,8 @@ layout: compress
         {% else %}
             {% if page.title == "About" %}
                 <div class="page">
+            {% else if page.title == "Zapier PM Role" %}
+                <div class="page {{ page.title | downcase }}">
             {% else %}
                 <div class="{{ page.title | downcase }}">
             {% endif %}
