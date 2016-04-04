@@ -4,26 +4,36 @@ permalink: /zapier-pm-role/index.html
 title: Zapier PM Role
 ---
 <style>
-img { width: 50%; margin: 0 auto; display: block; }
+.zach-pic {
+  width: 50%;
+  height: 400px;
+  margin: 0 auto;
+  display: block;
+  background: url({{ site.url }}/assets/images/profile.jpg) no-repeat;
+}
+.zach-pic:hover {
+  background: url({{ site.url }}/assets/images/profile_animated.gif) no-repeat;
+}
 </style>
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
-
+<div class="zach-pic">
+</div>
 <h2>Hi Mike & Zapier Team!</h2>
 <p>I put together a few examples of things I've worked on and included as many artifacts of the process as I could!<br />Looking forward to chatting with you.</p>
-<p><a href="http://hastebin.com/neqemareda.vhdl">5 Things That Excite Me, 5 Things That Least Excite Me</a></p>
+<p><a href="http://hastebin.com/xukucequhe.vhdl">5 Things That Excite Me, 5 Things That Least Excite Me</a></p>
 <br />
 
-<h3>A Few Things I Helped Ship</h3>
+<h3>App & Process Detail</h3>
 <h4><a href="http://insuranceskout.com">Insurance Skout</a></h4>
 <p>Insurance Skout aggregates small business health insurance data(sometimes painstakingly scraping PDFs) and individual policies for brokers to create quotes really quickly for their customers. It's live in production and used daily at about 50 brokerage agencies throughout the Northeast corridor.</p>
 <ul class="skill-list">
   <li>Demo Credentials <br />Username: <b>demo@demo.com</b><br />Password: <b>abc123</b></li>
   <li>My Roles: Product Design, Front-end Dev, Sales, Customer Support, Janitorial</li>
   <li>Super-super-duper Beta App Screen Shots: <a href="{{site.url}}/assets/images/skout/quotepage.png">Manage Employees</a>, <a href="{{site.url}}/assets/images/skout/quotepage.png">Quoting</a>, <a href="{{site.url}}/assets/images/skout/companypage.png">Company List</a>. The first beta quoted one plan and let you create different comapny's with different employee rosters.</li>
-  <li>Why & How We Discovered This Problem: I got a call from my friend and asked to come look at what he was doing in his job (insurnace broker) as he thought there might be a software solution to their mess of excel sheets that they used to quote small business insurance. From his inital basic excel document we built out a more complex version, then to some basic sketch's of a web application, to a demo, and finally to a more full feature application that is live currently. Along the entire process we worked with my friend and our eventual first customer to test designs and any hypothesis we had. In many instances we had to read between the feature requests for the real reason they wanted something to make good design decisions to keep the product simple yet also accommodate for the needed functionality. Overall working on that has been a great learning experience and we've now shipped the product to about 50 agencies throughout the Northeast. That being said we haven't found a great sustainable business model for that and so we've taken steps to sunset it in the coming months. When we did deliver the product to customers however we generally heard great things. In one case we helped drop the internal quoting load on the staff by about 30% while also helping them increase their revenues by more than 60%.</li>
+  <li><b>Story & Process:</b> I got a call from a friend and he asked me to come look at what he was doing in his job as an insurnace broker. He thought there might be a software solution to their mess of excel sheets that they used to generate quotes for small business health insurance. From his inital basic excel document we built out a more complex version, then to some basic sketch's of a web application, to a demo, and finally to a more full feature application that is live currently. Along the entire process we worked with my friend and our eventual first customer to test designs and any hypothesis we had. In many instances we had to read between the feature requests for the real reason they wanted something to make good design decisions to keep the product simple yet also accommodate for the needed functionality. Overall working on that has been a great learning experience and we've now shipped the product to about 50 agencies throughout the Northeast. That being said we haven't found a great sustainable business model for that and so we've taken steps to sunset it in the coming months. When we did deliver the product to customers however we generally heard great things. In one case we helped drop the internal quoting load on the staff by about 30% while also helping them increase their revenues by more than 60%.</li>
 </ul>
 
+<h3>A Few Other Things I've Helped Ship</h3>
 <h4><a href="http://aviatheapp.com">Avia</a></h4>
 <p>Contracted to created one of the first 5 Chromecast enabled apps on the google play store. I designed and built from the ground up a digital media player which is loaded onto the Chromecast to watch video, listen to music, and view images from your phone. I worked on the project from design to deployment, beta testing at Google HQ, and scaling the app and initial support to over a 2 million users.</p>
 <ul class="skill-list">
