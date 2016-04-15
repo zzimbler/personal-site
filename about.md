@@ -9,37 +9,60 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hey! I always love hearing about new ideas and projects. Shoot me an email if you think I can help!</p>
-<p>— Zach</p>
+<h3 style="text-align: center;">Hi, I'm Zach</h3>
+<p>I'm an software engineer, avid traveler & adventurer, live music lover, newly minted marathoner, and beginner rock climber.<p> 
 
-<h2>Skills</h2>
+
+<h2>Tech Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML & Jade</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>CSS Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript</li>
-	<li>AngularJS</li>
-	<li>ReactJS</li>
-	<li>Ionic Framework (Hybrid Mobile Applications)</li>
-	<li>Jquery</li>
-	<li>NodeJS</li>
-	<li>Grunt & Gulp & Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Ruby & Ruby on Rails</li>
-	<li>Bash Scripting</li>
-	<li>MySQL & MongoDB</li>
-	<li>UX & UI Design</li>
-	<li>Responsive (Mobile First)</li>
+	<li><b>Languages:</b>
+    <ul>
+      <li>Javascript</li>
+      <li>HTML/CSS</li>
+      <li>PHP</li>
+      <li>Ruby</li>
+      <li>Bash Scripting</li>
+    </ul>
+  </li>
+
+  <li>
+    <b>Frameworks:</b>
+    <ul>
+      <li>AngularJS</li>
+      <li>ReactJS</li>
+      <li>Jquery</li>
+      <li>NodeJS</li>
+      <li>Ionic Framework</li>
+      <li>Cordova</li>
+      <li>Bootstrap, Foundation</li>
+      <li>Rails</li>
+      <li>Wordpress</li>
+    </ul>
+	</li>
+
+  <li>
+    <b>Other Tools:</b>
+    <ul>
+      <li>Grunt & Gulp & Yeoman</li>
+      <li>MySQL & MongoDB</li>
+      <li>Git</li>
+      <li>UX & UI Design</li>
+      <li>Responsive Design</li>
+      <li>Firebase</li>
+      <li>AWS</li>
+      <li>Devops (Like Neo when he knows kungfu... not stopping bullets with his mind)</li>
+    </ul>
+  </li>
+
 </ul>
 
-<h2>A Few of My Projects</h2>
+<h2>Projects</h2>
 
 <ul>
+	<li><a href="https://itunes.apple.com/us/app/certifikid/id520350407?mt=8">Certifikid</a></li>
 	<li><a href="http://insuranceskout.com">Insurance Skout</a></li>
 	<li><a href="http://aviatheapp.com">Avia</a></li>
-	<li><a href="https://itunes.apple.com/us/app/certifikid/id520350407?mt=8">Certifikid</a></li>
 	<li><a href="https://resumeruby.com">ResumeRuby </a></li>
 	<li><a href="http://ekoapp.com">Eko</a></li>
 </ul>
