@@ -3,10 +3,14 @@ layout: default
 permalink: /projects/index.html
 title: Projects
 ---
-{% include header.html %}
+<header class="home__header">
+  <h1>Projects</h1>
+  <h2>A small sample of current and past projects</h2>
+</header>
+
+{% include nav.html %}
 
 <section class="home__sections">
-  <h1>Projects</h1>
   {% for post in site.posts %}
     {% if post.projects %}
       <div class="project home__sections-single {% if post.star == true %}star{% endif %}">

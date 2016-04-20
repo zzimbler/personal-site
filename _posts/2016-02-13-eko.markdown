@@ -1,10 +1,10 @@
 ---
-title: "Eko Communications, In"
+title: "Eko Communications, Inc"
 layout: post
-date: 2016-02-08 00:10
+date: 2016-02-07 00:10
 tag: mobile
 projects: true
-description: ""
+description: "Engineer #1 at Thai based mobile communications startup. Led platform design & development for both web and mobile applications."
 img: /assets/images/eko.jpg
 ---
 
