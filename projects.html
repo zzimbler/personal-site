@@ -6,13 +6,15 @@ title: Projects
 {% include header.html %}
 
 <section class="home__sections">
-  <h1>A Few of My Projects</h1>
+  <h1>Projects</h1>
   {% for post in site.posts %}
     {% if post.projects %}
-      <div class="home__sections-single {% if post.star == true %}star{% endif %}">
+      <div class="project home__sections-single {% if post.star == true %}star{% endif %}">
         <img src="{{ post.img }}" alt="Project Image" />
         <h3>{{ post.title }}</h3>
         <p>{{ post.description }}</p>
+        <br />
+        <br />
       </div>
     {% endif %}
   {% endfor %}
