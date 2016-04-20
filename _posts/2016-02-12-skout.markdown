@@ -1,0 +1,11 @@
+---
+title: "Insurance Skout"
+layout: post
+date: 2016-02-08 00:10
+tag: mobile
+projects: true
+description: ""
+img: /assets/images/skout.jpg
+---
+
+
