@@ -10,7 +10,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h3 style="text-align: center;">Hi, I'm Zach</h3>
-<p>I'm an software engineer, avid traveler & adventurer, live music lover, newly minted marathoner, and beginner rock climber.<p> 
+<p>I'm an software engineer, avid traveler & adventurer, live music lover, newly minted marathoner, and beginner rock climber.<p>
 
 
 <h2>Tech Skills</h2>
@@ -51,36 +51,8 @@ img { width: 50%; margin: 0 auto; display: block; }
       <li>Responsive Design</li>
       <li>Firebase</li>
       <li>AWS</li>
-      <li>Devops (Like Neo when he knows kungfu... not stopping bullets with his mind)</li>
     </ul>
   </li>
 
 </ul>
-
-<h2>Projects & Consulting Clients</h2>
-
-<ul>
-  <li>
-    <b>Public Projects</b>
-    </ul>
-      <li><a href="https://itunes.apple.com/us/app/certifikid/id520350407?mt=8">Certifikid</a></li>
-      <li><a href="http://insuranceskout.com">Insurance Skout</a></li>
-      <li><a href="http://aviatheapp.com">Avia</a></li>
-      <li><a href="https://resumeruby.com">ResumeRuby</a></li>
-      <li><a href="http://ekoapp.com">Eko</a></li>
-    </ul>
-  </li>
-  <li>
-    <b>Public Projects</b>
-    </ul>
-      <li><a href="https://itunes.apple.com/us/app/certifikid/id520350407?mt=8">Certifikid</a></li>
-      <li><a href="http://insuranceskout.com">Insurance Skout</a></li>
-      <li><a href="http://aviatheapp.com">Avia</a></li>
-      <li><a href="https://resumeruby.com">ResumeRuby</a></li>
-      <li><a href="http://ekoapp.com">Eko</a></li>
-    </ul>
-  </li>
-</ul>
-
-
 
