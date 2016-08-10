@@ -4,7 +4,9 @@ layout: post
 date: 2016-02-07 00:10
 tag: mobile
 projects: true
-description: "Engineer #1 at Thai based mobile communications startup. Led platform design & development for both web and mobile applications."
+description: "Engineer #1 at Thai based enterprise mobile communications startup. Led platform design & development for both web and mobile applications."
+technology: "Angular.js, Node.js, Ionic Framework, Javascript, HTML5, CSS3, ElasticSearch, AWS, Redis, MongoDb, Git"
+link: "https://www.ekoapp.com"
 img: /assets/images/eko.jpg
 ---
 

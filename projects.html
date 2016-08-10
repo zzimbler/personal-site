@@ -15,14 +15,17 @@ title: Projects
     {% if post.projects %}
       <div class="project home__sections-single {% if post.star == true %}star{% endif %}">
         <img src="{{ post.img }}" alt="Project Image" />
-        <h3>{{ post.title }}</h3>
+        <h3><a href="{{ post.link }}">{{ post.title }}</a></h3>
         <p>{{ post.description }}</p>
+        <p>Technologies Used: {{ post.technology }}</p>
         <br />
         <br />
       </div>
     {% endif %}
   {% endfor %}
 </section>
+
+<h4 style="text-align: center;"><a href="mailto:zachzimbler@gmail.com">Hire Me</a></h4>
 
 {% include footer.html %}
 

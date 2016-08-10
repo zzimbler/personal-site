@@ -2,9 +2,11 @@
 title: "Insurance Skout"
 layout: post
 date: 2016-02-08 00:10
-tag: mobile
+tag: desktop
 projects: true
-description: "Built an intelligent quoting system to help small business health insurance brokers quote prices for their customers in realtime. Utilizing a combination of technologies (ElasticSearch, Go, Ruby, Firebase, Angular.js) to process millions of records we built brokers a simple tool to help them get their customers the best prices quickly."
+description: "Built an intelligent quoting system to help small business health insurance brokers quote prices for their customers in real time. Utilizing a wide array of technologies to process millions of records we built brokers a simple tool to help them get their customers the best prices quickly."
+technology: "Angular.js, Firebase, Javascript, HTML5, CSS3, ElasticSearch, Go, Ruby (Rails), Git, Heroku, AWS, Postgres"
+link: "http://www.insuranceskout.com"
 img: /assets/images/skout.jpg
 ---
 
