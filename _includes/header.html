@@ -1,8 +1,9 @@
+{% include base.html %}
 {% if page.title == "Home" or page.title == "Blog" or page.title == "Projects" %}{% assign x = true %}{% endif %}
 
 {% if x == true %}
     <header class="home__header">
-        <img alt="{{ site.name }}" src="{{ site.picture }}" />
+        <img alt="{{ site.name }}" src="{{ base }}{{ site.picture }}" />
 
         <h1>{{ site.name }}</h1>
         <h2>{{ site.bio }}</h2>

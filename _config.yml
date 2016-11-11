@@ -3,7 +3,7 @@ bio: 'Developer, Adventurer, Music Lover'
 picture: 'assets/images/profile.jpg'
 
 #url: http://zzimbler.com
-url: 
+url:
 permalink: /:title/
 
 twitter: zzimbler
