@@ -1,6 +1,6 @@
 name: Zachary Zimbler
 bio: 'Developer, Adventurer, Music Lover'
-picture: 'assets/images/profile.jpg'
+picture: '/assets/images/profile.jpg'
 
 #url: http://zzimbler.com
 url:
