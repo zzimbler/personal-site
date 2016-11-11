@@ -1,11 +1,11 @@
 ---
-title: "MyStop Mobile (In Development)"
+title: "Project Diana"
 layout: post
-date: 2016-02-10 00:10
+date: 2016-02-09 00:10
 tag: mobile
 projects: true
-description: "Re-designing and constructing mobile (iOS & Android) apps for Avail Technologies. Avail provides 'Intelligent Transportation Systems' that connect riders, transportation companies, and their data. The apps use data feeds to build simple real time transit maps, deliver alerts, and share the data with Google Maps."
-technology: "React Native, React.js, iOS, Android, ES6, Javascript, Git"
-link: "http://availtec.com"
-img: /assets/images/mystop.jpg
+description: "Project Diana is a bug bounty dashboard being piloted by an Inc. 5000 cybersecurity research firm to help large enterprises identify, triage, and resolve mission critical bugs & security vulnerabilities."
+technology: "React.js, ES6, Javascript, HTML5, LESS, Git"
+link: "#"
+img: /assets/images/project-diana.jpg
 ---
