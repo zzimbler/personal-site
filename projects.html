@@ -3,6 +3,8 @@ layout: default
 permalink: /projects/index.html
 title: Projects
 ---
+{% include base.html %}
+
 <header class="home__header">
   <h1>Projects</h1>
   <h2>A small sample of current and past projects</h2>
@@ -14,7 +16,7 @@ title: Projects
   {% for post in site.posts %}
     {% if post.projects %}
       <div class="project home__sections-single {% if post.star == true %}star{% endif %}">
-        <img src="{{ post.img }}" alt="Project Image" />
+        <img src="{{ base }}/{{ post.img }}" alt="Project Image" />
         <h3><a href="{{ post.link }}">{{ post.title }}</a></h3>
         <p>{{ post.description }}</p>
         <p>Technologies Used: {{ post.technology }}</p>
