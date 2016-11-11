@@ -1,5 +1,5 @@
 ---
-title: "(For Funsies) Animated Text Rotator"
+title: "Animated Text Rotator (For Fun) "
 layout: post
 date: 2016-02-05 00:10
 tag:

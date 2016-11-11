@@ -1,5 +1,5 @@
 ---
-title: "(For Funsies) Currently Viewing"
+title: "Currently Viewing (For Fun)"
 layout: post
 date: 2016-02-06 00:10
 tag: desktop, mobile, firebase

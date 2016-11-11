@@ -23,6 +23,8 @@ What has inside?
 8. `gulp`
 9. open in your browser: `http://localhost:3000`
 
+Images on project page created with : http://mockdrop.io
+
 ## Settings
 
 You have to fill some informations on `_config.yml` to customize your site.
