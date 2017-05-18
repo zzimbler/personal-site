@@ -1,0 +1,11 @@
+---
+title: "Gridwise"
+layout: post
+date: 2016-02-10 00:10
+tag: mobile
+projects: true
+description: "Gridwise is an intelligence platform for rideshare and taxi drivers that provides forecasted and real-time insights around rider demand, helping drivers be more efficient and profitable on the road. Designs by Jeremy Kanter."
+technology: "React Native, React.js, iOS, Android, ES6, Javascript, Git"
+link: "https://itunes.apple.com/us/app/gridwise/id1215991382"
+img: /assets/images/gridwise.jpg
+---

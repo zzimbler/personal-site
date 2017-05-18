@@ -1,0 +1,11 @@
+---
+title: "Vitruvi"
+layout: post
+date: 2016-02-13 00:10
+tag: mobile
+projects: true
+description: "Vitruvi is a cloud based production accounting software that manages data for a mobile workforce and solves the challenge of integrating key operations and IT systems for large telecommunications developers."
+technology: "Angular, Python, git, more"
+link: "http://fresnel.cc"
+img: /assets/images/vitruvi.jpg
+---
