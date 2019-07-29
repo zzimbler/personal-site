@@ -6,7 +6,7 @@ tag: desktop
 projects: true
 description: "Built an intelligent quoting system to help small business health insurance brokers quote prices for their customers in real time. Utilizing a wide array of technologies to process millions of records we built brokers a simple tool to help them get their customers the best prices quickly."
 technology: "Angular.js, Firebase, Javascript, HTML5, CSS3, ElasticSearch, Go, Ruby (Rails), Git, Heroku, AWS, Postgres"
-link: "http://www.insuranceskout.com"
+link: ""
 img: /assets/images/skout.jpg
 ---
 
